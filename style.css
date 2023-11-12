@@ -310,6 +310,9 @@ li{
 
 
 @media(min-width:815px){   
+    .navbar li a:hover{
+        color: #8a7878;
+    }
 .text{
     display: flex;
     flex-direction: row;
