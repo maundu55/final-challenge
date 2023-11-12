@@ -303,14 +303,16 @@ li{
     .navbar li:nth-child(1){
         margin-top: 50px;
     }
-    .list-item, .navbar li a:hover{
+    .list-item:hover, 
+    .navbar li a:hover{
         color: #8a7878;
     }
 }
 
 
 @media(min-width:815px){   
-    .list-item, .navbar li a:hover{
+    .list-item:hover, 
+    .navbar li a:hover{
         color: #8a7878;
     }
 .text{
